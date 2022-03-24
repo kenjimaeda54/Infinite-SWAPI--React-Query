@@ -1,5 +1,6 @@
-.loading {
-  position: fixed;
-  top: 5px;
-  right: 5px;
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding-bottom: 50px;
 }
